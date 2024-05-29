@@ -1,0 +1,164 @@
+[
+  {
+    "ContainingType": "PackIT.API.Controllers.PackingListController",
+    "Method": "Get",
+    "RelativePath": "api/PackingList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "SearchPhrase",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[PackIT.Application.DTO.PackingListDTO, PackIT.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PackIT.API.Controllers.PackingListController",
+    "Method": "Post",
+    "RelativePath": "api/PackingList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "PackIT.Application.CreatePackingListWithItems",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PackIT.API.Controllers.PackingListController",
+    "Method": "Get",
+    "RelativePath": "api/PackingList/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PackIT.Application.DTO.PackingListDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PackIT.API.Controllers.PackingListController",
+    "Method": "Delete",
+    "RelativePath": "api/PackingList/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "PackIT.Application.Commands.RemovePackingList",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PackIT.API.Controllers.PackingListController",
+    "Method": "Put",
+    "RelativePath": "api/PackingList/{packingListId}/items",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "PackIT.Application.Commands.AddPackingItem",
+        "IsRequired": true
+      },
+      {
+        "Name": "packingListId",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PackIT.API.Controllers.PackingListController",
+    "Method": "Delete",
+    "RelativePath": "api/PackingList/{packingListId}/items/{name}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "PackIT.Application.Commands.RemovePackingItem",
+        "IsRequired": true
+      },
+      {
+        "Name": "packingListId",
+        "Type": "",
+        "IsRequired": true
+      },
+      {
+        "Name": "name",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PackIT.API.Controllers.PackingListController",
+    "Method": "Put",
+    "RelativePath": "api/PackingList/{packingListId}/items/{name}/pack",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "PackIT.Application.Commands.PackItem",
+        "IsRequired": true
+      },
+      {
+        "Name": "packingListId",
+        "Type": "",
+        "IsRequired": true
+      },
+      {
+        "Name": "name",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

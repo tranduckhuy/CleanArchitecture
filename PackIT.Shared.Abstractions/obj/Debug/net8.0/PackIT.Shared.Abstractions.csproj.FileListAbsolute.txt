@@ -1,0 +1,11 @@
+E:\Workspace\CleanArchitecture\PackIT.Shared.Abstractions\bin\Debug\net8.0\PackIT.Shared.Abstractions.deps.json
+E:\Workspace\CleanArchitecture\PackIT.Shared.Abstractions\bin\Debug\net8.0\PackIT.Shared.Abstractions.dll
+E:\Workspace\CleanArchitecture\PackIT.Shared.Abstractions\bin\Debug\net8.0\PackIT.Shared.Abstractions.pdb
+E:\Workspace\CleanArchitecture\PackIT.Shared.Abstractions\obj\Debug\net8.0\PackIT.Shared.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\CleanArchitecture\PackIT.Shared.Abstractions\obj\Debug\net8.0\PackIT.Shared.Abstractions.AssemblyInfoInputs.cache
+E:\Workspace\CleanArchitecture\PackIT.Shared.Abstractions\obj\Debug\net8.0\PackIT.Shared.Abstractions.AssemblyInfo.cs
+E:\Workspace\CleanArchitecture\PackIT.Shared.Abstractions\obj\Debug\net8.0\PackIT.Shared.Abstractions.csproj.CoreCompileInputs.cache
+E:\Workspace\CleanArchitecture\PackIT.Shared.Abstractions\obj\Debug\net8.0\PackIT.Shared.Abstractions.dll
+E:\Workspace\CleanArchitecture\PackIT.Shared.Abstractions\obj\Debug\net8.0\refint\PackIT.Shared.Abstractions.dll
+E:\Workspace\CleanArchitecture\PackIT.Shared.Abstractions\obj\Debug\net8.0\PackIT.Shared.Abstractions.pdb
+E:\Workspace\CleanArchitecture\PackIT.Shared.Abstractions\obj\Debug\net8.0\ref\PackIT.Shared.Abstractions.dll

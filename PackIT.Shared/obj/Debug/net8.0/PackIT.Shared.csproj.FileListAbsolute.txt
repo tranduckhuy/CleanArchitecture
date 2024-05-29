@@ -1,0 +1,17 @@
+E:\Workspace\CleanArchitecture\PackIT.Shared\bin\Debug\net8.0\PackIT.Shared.deps.json
+E:\Workspace\CleanArchitecture\PackIT.Shared\bin\Debug\net8.0\PackIT.Shared.runtimeconfig.json
+E:\Workspace\CleanArchitecture\PackIT.Shared\bin\Debug\net8.0\PackIT.Shared.dll
+E:\Workspace\CleanArchitecture\PackIT.Shared\bin\Debug\net8.0\PackIT.Shared.pdb
+E:\Workspace\CleanArchitecture\PackIT.Shared\bin\Debug\net8.0\PackIT.Shared.Abstractions.dll
+E:\Workspace\CleanArchitecture\PackIT.Shared\bin\Debug\net8.0\PackIT.Shared.Abstractions.pdb
+E:\Workspace\CleanArchitecture\PackIT.Shared\obj\Debug\net8.0\PackIT.Shared.csproj.AssemblyReference.cache
+E:\Workspace\CleanArchitecture\PackIT.Shared\obj\Debug\net8.0\PackIT.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\CleanArchitecture\PackIT.Shared\obj\Debug\net8.0\PackIT.Shared.AssemblyInfoInputs.cache
+E:\Workspace\CleanArchitecture\PackIT.Shared\obj\Debug\net8.0\PackIT.Shared.AssemblyInfo.cs
+E:\Workspace\CleanArchitecture\PackIT.Shared\obj\Debug\net8.0\PackIT.Shared.csproj.CoreCompileInputs.cache
+E:\Workspace\CleanArchitecture\PackIT.Shared\obj\Debug\net8.0\PackIT.S.AFEC07B1.Up2Date
+E:\Workspace\CleanArchitecture\PackIT.Shared\obj\Debug\net8.0\PackIT.Shared.dll
+E:\Workspace\CleanArchitecture\PackIT.Shared\obj\Debug\net8.0\refint\PackIT.Shared.dll
+E:\Workspace\CleanArchitecture\PackIT.Shared\obj\Debug\net8.0\PackIT.Shared.pdb
+E:\Workspace\CleanArchitecture\PackIT.Shared\obj\Debug\net8.0\PackIT.Shared.genruntimeconfig.cache
+E:\Workspace\CleanArchitecture\PackIT.Shared\obj\Debug\net8.0\ref\PackIT.Shared.dll

@@ -1,0 +1,15 @@
+E:\Workspace\CleanArchitecture\PackIT.Domain\bin\Debug\net8.0\PackIT.Domain.deps.json
+E:\Workspace\CleanArchitecture\PackIT.Domain\bin\Debug\net8.0\PackIT.Domain.dll
+E:\Workspace\CleanArchitecture\PackIT.Domain\bin\Debug\net8.0\PackIT.Domain.pdb
+E:\Workspace\CleanArchitecture\PackIT.Domain\bin\Debug\net8.0\PackIT.Shared.Abstractions.dll
+E:\Workspace\CleanArchitecture\PackIT.Domain\bin\Debug\net8.0\PackIT.Shared.Abstractions.pdb
+E:\Workspace\CleanArchitecture\PackIT.Domain\obj\Debug\net8.0\PackIT.Domain.csproj.AssemblyReference.cache
+E:\Workspace\CleanArchitecture\PackIT.Domain\obj\Debug\net8.0\PackIT.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\CleanArchitecture\PackIT.Domain\obj\Debug\net8.0\PackIT.Domain.AssemblyInfoInputs.cache
+E:\Workspace\CleanArchitecture\PackIT.Domain\obj\Debug\net8.0\PackIT.Domain.AssemblyInfo.cs
+E:\Workspace\CleanArchitecture\PackIT.Domain\obj\Debug\net8.0\PackIT.Domain.csproj.CoreCompileInputs.cache
+E:\Workspace\CleanArchitecture\PackIT.Domain\obj\Debug\net8.0\PackIT.D.4E009C71.Up2Date
+E:\Workspace\CleanArchitecture\PackIT.Domain\obj\Debug\net8.0\PackIT.Domain.dll
+E:\Workspace\CleanArchitecture\PackIT.Domain\obj\Debug\net8.0\refint\PackIT.Domain.dll
+E:\Workspace\CleanArchitecture\PackIT.Domain\obj\Debug\net8.0\PackIT.Domain.pdb
+E:\Workspace\CleanArchitecture\PackIT.Domain\obj\Debug\net8.0\ref\PackIT.Domain.dll
